@@ -1,4 +1,4 @@
-# Auto merge my pull requests
+# Auto merge my pull requests- for testing 
 
 A GitHub Action to automatically merge pull requests on my repositories if:
 
